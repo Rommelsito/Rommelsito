@@ -27,7 +27,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img target = "blanck" src="https://skillicons.dev/icons?i=androidstudio,cs,html,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,cs,html,git,github,py,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
   </a>
 </p>
 <br>
