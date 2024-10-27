@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 soy Rommel Garcia / unsimpleDev ✨ </h1> 
+<h1 align="center">Hi 👋I'm Rommel Garcia✨ </h1> 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rommel-g/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Rommel profile"/></a>
@@ -6,7 +6,7 @@
 <a href = "mailto:momerg2016@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@momerg"  /></a>
   </p>
 <br>
-<h2>Sobre mi 😃</h2>
+<h2>About me 😃</h2>
 <!--Intro start-->
 
 <p align="left">
@@ -18,7 +18,7 @@
 
 📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
 
-📫 Contacto: **unsimpledev@gmail.com**
+📫 Contacto: **momerg2016@gmail.com**
 <!--Intro end-->
   </p>
 <br>
